@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="452da082-1a88-4216-af5e-23f65ea5f07e" name="Changes" comment="" />
+    <list default="true" id="452da082-1a88-4216-af5e-23f65ea5f07e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InbuiltFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MethodOverloading.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UserDefinedFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ClassesAndobjects.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidmorningKotlinTwo/META-INF/MidmorningKotlinTwo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidmorningKotlinTwo/META-INF/MidmorningKotlinTwo.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -25,30 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/emobilis/IdeaProjects/MorningKotlinOne"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/IdeaProjects/MorningKotlinOne&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.LoopsKt">
-    <configuration name="ConditionalExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalExpressionsKt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.ClassesAndobjectsKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <module name="MidmorningKotlinTwo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalStatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatementsKt" />
+    <configuration name="ClassesAndobjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.ClassesAndobjectsKt" />
       <module name="MidmorningKotlinTwo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatatypeConversionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DatatypeConversionKt" />
+    <configuration name="InbuiltFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InbuiltFunctionsKt" />
       <module name="MidmorningKotlinTwo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="UserDefinedFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserDefinedFunctionsKt" />
       <module name="MidmorningKotlinTwo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassesAndobjectsKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
+        <item itemvalue="Kotlin.UserDefinedFunctionsKt" />
+        <item itemvalue="Kotlin.InbuiltFunctionsKt" />
         <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.DatatypeConversionKt" />
-        <item itemvalue="Kotlin.ConditionalExpressionsKt" />
-        <item itemvalue="Kotlin.ConditionalStatementsKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -88,5 +99,16 @@
       <updated>1678781640359</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
